@@ -22,8 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Backend
-server/venv
-server/__pycache__
-server/*.pyc
