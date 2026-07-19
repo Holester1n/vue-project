@@ -26,7 +26,7 @@ npm run build        # прод-сборка
 npm run api:generate # перегенерировать типы из server/openapi.json
 ```
 
-Для страницы **Backend Demo** дополнительно нужен запущенный бэкенд —
+Для страницы **Backend Demo** дополнительно нужен запущенный бэкенд -
 см. `server/README.md`.
 
 ## Структура

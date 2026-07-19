@@ -18,7 +18,7 @@ uvicorn main:app --reload --port 8000
 - Swagger UI: http://localhost:8000/docs
 - OpenAPI JSON: http://localhost:8000/openapi.json
 
-Убедись, что фронтенд (`npm run dev`) поднят на порту 5173 — именно
+Убедитесь, что фронтенд (`npm run dev`) поднят на порту 5173 — именно
 он разрешён в CORS (`main.py`, `allow_origins`).
 
 ## Обновление типов на фронтенде после изменений в бэкенде
