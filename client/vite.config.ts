@@ -6,7 +6,7 @@ import vuetify from 'vite-plugin-vuetify'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/task-tracker/',
+  base: '/vue-project/',
   plugins: [
     vue(),
     vuetify({ autoImport: true }),
